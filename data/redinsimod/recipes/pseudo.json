@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    " R ",
+    "#F#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glowstone"
+    },
+    "R": {
+      "item": "minecraft:redstone",
+      "count": 4
+    },
+    "F": {
+      "item": "redinsimod:flask"
+    }
+  },
+  "result": {
+    "item": "redinsimod:pseudo",
+    "count": 4
+  }
+}

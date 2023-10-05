@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "redinsimod:meth_m"
+    },
+    "title": {
+      "translate": "advancements.redinsimod.meth_m.title"
+    },
+    "description": {
+      "translate": "advancements.redinsimod.meth_m.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "redinsimod:breaking_mod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "redinsimod:meth_m"
+          }
+        ]
+      }
+    }
+  }
+}

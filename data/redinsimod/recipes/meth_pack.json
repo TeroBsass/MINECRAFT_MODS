@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "redinsimod:meth"
+    }
+  },
+  "result": {
+    "item": "redinsimod:meth_pack",
+    "count": 1
+  }
+}

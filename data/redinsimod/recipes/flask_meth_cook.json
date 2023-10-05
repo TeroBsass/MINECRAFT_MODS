@@ -1,0 +1,15 @@
+{
+  "type": "redinsimod:meth_cooking",
+  "weather": "clear",
+  "ingredients": [
+    {
+      "item": "redinsimod:pseudo"
+    },
+    {
+      "item": "minecraft:glass"
+    }
+  ],
+  "output": {
+    "item": "redinsimod:flask"
+  }
+}

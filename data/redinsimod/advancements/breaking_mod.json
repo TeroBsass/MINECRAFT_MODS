@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "redinsimod:meth_cook_table"
+    },
+    "title": {
+      "translate": "advancements.redinsimod.meth_cook_table.title"
+    },
+    "description": {
+      "translate": "advancements.redinsimod.meth_cook_table.description"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "redinsimod:textures/block/meth_cook_table.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "redinsimod:meth_cook_table"
+          }
+        ]
+      }
+    }
+  }
+}

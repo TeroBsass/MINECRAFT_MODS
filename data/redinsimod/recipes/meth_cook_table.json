@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    " M ",
+    " F "
+  ],
+  "key": {
+    "M": {
+      "item": "redinsimod:methylamine"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "F": {
+      "item": "redinsimod:flask"
+    }
+  },
+  "result": {
+    "item": "redinsimod:meth_cook_table",
+    "count": 1
+  }
+}
